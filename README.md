@@ -1,6 +1,12 @@
+Link do Notion com Projeto: https://bead-stargazer-0ef.notion.site/STUDIO-DE-PODCAST-MATEUS-SOARES-27c394c8692780ee9f7bf31faa9d9115
+
+
 PRIMEIRO PASSO - CRIAR UM TÍTULO PARA O PODCAST
+
 Para o Título foi utilizado Chatgpt
+
 Prompt:
+
 {DEMANDA PRINCIPAL}
 Olá! Sou um roteirista de podcast e gostaria da sua ajuda para criar um podcast sobre Tecnologia e Gestão Empresarial. O podcast será focado em ferramentas tecnológicas aplicadas ao dia a dia da gestão de uma empresa ou negócio.
 
@@ -49,6 +55,3 @@ Resultado:
 
 Selecionado:
 **Deu Bug na Gestão:** *Soluções tecnológicas para arrumar a bagunça dos negócios*
-
-
-https://bead-stargazer-0ef.notion.site/STUDIO-DE-PODCAST-MATEUS-SOARES-27c394c8692780ee9f7bf31faa9d9115
